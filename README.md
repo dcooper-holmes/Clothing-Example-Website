@@ -1,2 +1,3 @@
-# Clothing_Example_Website
- A clothing 
+# Clothing Example Website
+
+A clothing website mock up design.
