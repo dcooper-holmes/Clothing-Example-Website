@@ -4,3 +4,18 @@
 .brand{
     font-family: 'Urbanist', sans-serif;
 }
+
+.sale-image {
+    display: none;
+}
+
+@media only screen and (max-width: 1500px) {
+    
+    .sale-image {
+        display: block;
+    }
+    
+    #top-section-carousel {
+        display: none;
+    }
+}
