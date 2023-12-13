@@ -1,3 +1,3 @@
 # Clothing Example Website
 
-A clothing website mock up design.
+A non-functioning clothing website design.
